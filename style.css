@@ -1,0 +1,19 @@
+  h1 {
+    color: purple;
+  }
+  .header {
+    background-color: rgb(209, 246, 217);
+    display: flex;
+    justify-content: space-between;
+  }
+  .grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  .footer{
+    display: flex;
+    justify-content: flex-end;
+  }
+  
